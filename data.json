@@ -1,21 +1,21 @@
 {
-    "key_mappings" : {
-        "html" : "HTML",
-        "delete-me" : "delete"
+    "key_mappings": {
+        "html": "HTML",
+        "delete-me": "delete"
     },
-    "characters" : [
+    "characters": [
         {
-            "unicode_number" : 0,
-            "symbol" : "NUL"
+            "unicode_number": 0,
+            "symbol": "NUL"
         },
         {
-            "unicode_number" : 65,
-            "symbol" : "A"
+            "unicode_number": 65,
+            "symbol": "A"
         },
         {
-            "unicode_number" : 128,
-            "symbol" : "€",
-            "html" : "&euro;"
+            "unicode_number": 128,
+            "symbol": "€",
+            "html": "&euro;"
         }
     ]
 }
