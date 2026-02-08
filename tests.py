@@ -1,9 +1,8 @@
-#!/usr/bin/env python
-# -*- coding: utf8 -*-
+#!/usr/bin/env python3
 
-from __future__ import print_function
 import json
 import unittest
+import functools
 
 
 #
@@ -27,8 +26,8 @@ class DataTests(unittest.TestCase):
         whiteListKeys = ['unicode_number', 'symbol']
 
         data = getData()
-        keysWithMappings = data['key_mappings'].keys()
-        keysInCharSpecs = reduce(lambda a, b: a.union(b.keys()),
+        keysWithMappings = list(data['key_mappings'].keys())
+        keysInCharSpecs = functools.reduce(lambda a, b: a.union(b.keys()),
                                  data['characters'], set())
         keysWithOutMapping = [k for k in keysInCharSpecs if k not in (keysWithMappings + whiteListKeys)]
         #keysWithOutMapping = filter(lambda k: k not in (keysWithMappings + whiteListKeys), keysInCharSpecs)
