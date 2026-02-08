@@ -25,7 +25,7 @@
   text(size: 180pt, str(number)),
   text(size: 180pt, symbol),
   if html != none {
-    text(size: 80pt, html)
+    text(size: 50pt, "HTML: " + html)
   } else {
     []
   },
