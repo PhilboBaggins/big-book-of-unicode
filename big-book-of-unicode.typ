@@ -1,3 +1,4 @@
+#import "@preview/oxifmt:1.0.0": strfmt
 
 #let PAPER_SIZE_A5 = (148mm, 210mm)
 #let MARGIN = 10mm
@@ -19,10 +20,11 @@
   html: none,
 ) = grid(
   columns: 100%,
-  rows: (3fr, 3fr, 1fr),
+  rows: (3fr, 3fr, 3fr, 2fr),
   align: center + horizon,
 
   text(size: 180pt, str(number)),
+  text(size: 130pt, "0x" + strfmt("{:04X}", number)),
   text(size: 180pt, symbol),
   if html != none {
     text(size: 50pt, "HTML: " + html)
