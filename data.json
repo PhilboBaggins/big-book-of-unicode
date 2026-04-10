@@ -9,8 +9,404 @@
             "symbol": "NUL"
         },
         {
+            "unicode_number": 8,
+            "symbol": "\\b"
+        },
+        {
+            "unicode_number": 9,
+            "symbol": "\\t"
+        },
+        {
+            "unicode_number": 10,
+            "symbol": "\\n"
+        },
+        {
+            "unicode_number": 12,
+            "symbol": "\\f"
+        },
+        {
+            "unicode_number": 13,
+            "symbol": "\\r"
+        },
+        {
+            "unicode_number": 32,
+            "symbol": " "
+        },
+        {
+            "unicode_number": 33,
+            "symbol": "!"
+        },
+        {
+            "unicode_number": 34,
+            "symbol": "\""
+        },
+        {
+            "unicode_number": 35,
+            "symbol": "#"
+        },
+        {
+            "unicode_number": 36,
+            "symbol": "$"
+        },
+        {
+            "unicode_number": 37,
+            "symbol": "%"
+        },
+        {
+            "unicode_number": 38,
+            "symbol": "&"
+        },
+        {
+            "unicode_number": 39,
+            "symbol": "'"
+        },
+        {
+            "unicode_number": 40,
+            "symbol": "("
+        },
+        {
+            "unicode_number": 41,
+            "symbol": ")"
+        },
+        {
+            "unicode_number": 42,
+            "symbol": "*"
+        },
+        {
+            "unicode_number": 43,
+            "symbol": "+"
+        },
+        {
+            "unicode_number": 44,
+            "symbol": ","
+        },
+        {
+            "unicode_number": 45,
+            "symbol": "-"
+        },
+        {
+            "unicode_number": 46,
+            "symbol": "."
+        },
+        {
+            "unicode_number": 47,
+            "symbol": "/"
+        },
+        {
+            "unicode_number": 48,
+            "symbol": "0"
+        },
+        {
+            "unicode_number": 49,
+            "symbol": "1"
+        },
+        {
+            "unicode_number": 50,
+            "symbol": "2"
+        },
+        {
+            "unicode_number": 51,
+            "symbol": "3"
+        },
+        {
+            "unicode_number": 52,
+            "symbol": "4"
+        },
+        {
+            "unicode_number": 53,
+            "symbol": "5"
+        },
+        {
+            "unicode_number": 54,
+            "symbol": "6"
+        },
+        {
+            "unicode_number": 55,
+            "symbol": "7"
+        },
+        {
+            "unicode_number": 56,
+            "symbol": "8"
+        },
+        {
+            "unicode_number": 57,
+            "symbol": "9"
+        },
+        {
+            "unicode_number": 58,
+            "symbol": ":"
+        },
+        {
+            "unicode_number": 59,
+            "symbol": ";"
+        },
+        {
+            "unicode_number": 60,
+            "symbol": "<"
+        },
+        {
+            "unicode_number": 61,
+            "symbol": "="
+        },
+        {
+            "unicode_number": 62,
+            "symbol": ">"
+        },
+        {
+            "unicode_number": 63,
+            "symbol": "?"
+        },
+        {
+            "unicode_number": 64,
+            "symbol": "@"
+        },
+        {
             "unicode_number": 65,
             "symbol": "A"
+        },
+        {
+            "unicode_number": 66,
+            "symbol": "B"
+        },
+        {
+            "unicode_number": 67,
+            "symbol": "C"
+        },
+        {
+            "unicode_number": 68,
+            "symbol": "D"
+        },
+        {
+            "unicode_number": 69,
+            "symbol": "E"
+        },
+        {
+            "unicode_number": 70,
+            "symbol": "F"
+        },
+        {
+            "unicode_number": 71,
+            "symbol": "G"
+        },
+        {
+            "unicode_number": 72,
+            "symbol": "H"
+        },
+        {
+            "unicode_number": 73,
+            "symbol": "I"
+        },
+        {
+            "unicode_number": 74,
+            "symbol": "J"
+        },
+        {
+            "unicode_number": 75,
+            "symbol": "K"
+        },
+        {
+            "unicode_number": 76,
+            "symbol": "L"
+        },
+        {
+            "unicode_number": 77,
+            "symbol": "M"
+        },
+        {
+            "unicode_number": 78,
+            "symbol": "N"
+        },
+        {
+            "unicode_number": 79,
+            "symbol": "O"
+        },
+        {
+            "unicode_number": 80,
+            "symbol": "P"
+        },
+        {
+            "unicode_number": 81,
+            "symbol": "Q"
+        },
+        {
+            "unicode_number": 82,
+            "symbol": "R"
+        },
+        {
+            "unicode_number": 83,
+            "symbol": "S"
+        },
+        {
+            "unicode_number": 84,
+            "symbol": "T"
+        },
+        {
+            "unicode_number": 85,
+            "symbol": "U"
+        },
+        {
+            "unicode_number": 86,
+            "symbol": "V"
+        },
+        {
+            "unicode_number": 87,
+            "symbol": "W"
+        },
+        {
+            "unicode_number": 88,
+            "symbol": "X"
+        },
+        {
+            "unicode_number": 89,
+            "symbol": "Y"
+        },
+        {
+            "unicode_number": 90,
+            "symbol": "Z"
+        },
+        {
+            "unicode_number": 91,
+            "symbol": "["
+        },
+        {
+            "unicode_number": 92,
+            "symbol": "\\"
+        },
+        {
+            "unicode_number": 93,
+            "symbol": "]"
+        },
+        {
+            "unicode_number": 94,
+            "symbol": "^"
+        },
+        {
+            "unicode_number": 95,
+            "symbol": "_"
+        },
+        {
+            "unicode_number": 96,
+            "symbol": "`"
+        },
+        {
+            "unicode_number": 97,
+            "symbol": "a"
+        },
+        {
+            "unicode_number": 98,
+            "symbol": "b"
+        },
+        {
+            "unicode_number": 99,
+            "symbol": "c"
+        },
+        {
+            "unicode_number": 100,
+            "symbol": "d"
+        },
+        {
+            "unicode_number": 101,
+            "symbol": "e"
+        },
+        {
+            "unicode_number": 102,
+            "symbol": "f"
+        },
+        {
+            "unicode_number": 103,
+            "symbol": "g"
+        },
+        {
+            "unicode_number": 104,
+            "symbol": "h"
+        },
+        {
+            "unicode_number": 105,
+            "symbol": "i"
+        },
+        {
+            "unicode_number": 106,
+            "symbol": "j"
+        },
+        {
+            "unicode_number": 107,
+            "symbol": "k"
+        },
+        {
+            "unicode_number": 108,
+            "symbol": "l"
+        },
+        {
+            "unicode_number": 109,
+            "symbol": "m"
+        },
+        {
+            "unicode_number": 110,
+            "symbol": "n"
+        },
+        {
+            "unicode_number": 111,
+            "symbol": "o"
+        },
+        {
+            "unicode_number": 112,
+            "symbol": "p"
+        },
+        {
+            "unicode_number": 113,
+            "symbol": "q"
+        },
+        {
+            "unicode_number": 114,
+            "symbol": "r"
+        },
+        {
+            "unicode_number": 115,
+            "symbol": "s"
+        },
+        {
+            "unicode_number": 116,
+            "symbol": "t"
+        },
+        {
+            "unicode_number": 117,
+            "symbol": "u"
+        },
+        {
+            "unicode_number": 118,
+            "symbol": "v"
+        },
+        {
+            "unicode_number": 119,
+            "symbol": "w"
+        },
+        {
+            "unicode_number": 120,
+            "symbol": "x"
+        },
+        {
+            "unicode_number": 121,
+            "symbol": "y"
+        },
+        {
+            "unicode_number": 122,
+            "symbol": "z"
+        },
+        {
+            "unicode_number": 123,
+            "symbol": "{"
+        },
+        {
+            "unicode_number": 124,
+            "symbol": "|"
+        },
+        {
+            "unicode_number": 125,
+            "symbol": "}"
+        },
+        {
+            "unicode_number": 126,
+            "symbol": "~"
         },
         {
             "unicode_number": 128,
