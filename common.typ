@@ -3,7 +3,7 @@
 #let unicode-page(
   number,
   symbol,
-  html: none,
+  html,
 ) = grid(
   columns: 100%,
   rows: (3fr, 3fr, 3fr, 2fr),
@@ -14,8 +14,6 @@
   text(size: 180pt, symbol),
   if html != none {
     text(size: 50pt, "HTML: " + html)
-  } else {
-    []
   },
 )
 
@@ -36,7 +34,7 @@
     unicode-page(
       item.unicode_number,
       item.symbol,
-      html: item.at("html", default: none),
+      item.at("html", default: none),
     )
   }
 }
