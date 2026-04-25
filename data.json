@@ -409,9 +409,5 @@
       "symbol": "\u20ac",
       "unicode_number": 128
     }
-  ],
-  "key_mappings": {
-    "delete-me": "delete",
-    "html": "HTML"
-  }
+  ]
 }
