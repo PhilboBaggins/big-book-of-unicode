@@ -509,6 +509,10 @@
       "unicode_number": 126
     },
     {
+      "symbol": "DEL",
+      "unicode_number": 127
+    },
+    {
       "html": "&euro;",
       "symbol": "\u20ac",
       "unicode_number": 128
