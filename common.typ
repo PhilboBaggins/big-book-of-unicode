@@ -33,7 +33,7 @@
   for item in data.characters {
     unicode-page(
       item.unicode_number,
-      item.symbol,
+      item.at("symbol", default: none),
       item.at("html", default: none),
     )
   }
