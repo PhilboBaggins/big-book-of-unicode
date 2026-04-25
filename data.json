@@ -53,6 +53,78 @@
       "unicode_number": 13
     },
     {
+      "symbol": "SO",
+      "unicode_number": 14
+    },
+    {
+      "symbol": "SI",
+      "unicode_number": 15
+    },
+    {
+      "symbol": "DLE",
+      "unicode_number": 16
+    },
+    {
+      "symbol": "DC1",
+      "unicode_number": 17
+    },
+    {
+      "symbol": "DC2",
+      "unicode_number": 18
+    },
+    {
+      "symbol": "DC3",
+      "unicode_number": 19
+    },
+    {
+      "symbol": "DC4",
+      "unicode_number": 20
+    },
+    {
+      "symbol": "NAK",
+      "unicode_number": 21
+    },
+    {
+      "symbol": "SYN",
+      "unicode_number": 22
+    },
+    {
+      "symbol": "ETB",
+      "unicode_number": 23
+    },
+    {
+      "symbol": "CAN",
+      "unicode_number": 24
+    },
+    {
+      "symbol": "EM",
+      "unicode_number": 25
+    },
+    {
+      "symbol": "SUB",
+      "unicode_number": 26
+    },
+    {
+      "symbol": "ESC",
+      "unicode_number": 27
+    },
+    {
+      "symbol": "FS",
+      "unicode_number": 28
+    },
+    {
+      "symbol": "GS",
+      "unicode_number": 29
+    },
+    {
+      "symbol": "RS",
+      "unicode_number": 30
+    },
+    {
+      "symbol": "US",
+      "unicode_number": 31
+    },
+    {
       "symbol": " ",
       "unicode_number": 32
     },
