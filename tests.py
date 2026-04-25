@@ -5,7 +5,7 @@ Project test suite
 
 import json
 import unittest
-import functools
+import subprocess
 
 
 DATA_FILE = "data.json"
@@ -39,8 +39,11 @@ class DataTests(unittest.TestCase):
 
 
 if __name__ == "__main__":
-    # Alternatively you could run it like this:
-    # $ python -m unittest tests.py
-
+    # Run test suite above
+    print("Running data tests...")
     suite = unittest.TestLoader().loadTestsFromTestCase(DataTests)
     unittest.TextTestRunner(verbosity=2).run(suite)
+
+    # Run pre-commit hooks on all files in the project
+    print("\n\nRunning pre-commit hooks on all files...")
+    subprocess.check_call(["pre-commit", "run", "--all-files"])
