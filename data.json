@@ -5,6 +5,34 @@
       "unicode_number": 0
     },
     {
+      "symbol": "SOH",
+      "unicode_number": 1
+    },
+    {
+      "symbol": "STX",
+      "unicode_number": 2
+    },
+    {
+      "symbol": "ETX",
+      "unicode_number": 3
+    },
+    {
+      "symbol": "EOT",
+      "unicode_number": 4
+    },
+    {
+      "symbol": "ENQ",
+      "unicode_number": 5
+    },
+    {
+      "symbol": "ACK",
+      "unicode_number": 6
+    },
+    {
+      "symbol": "BEL",
+      "unicode_number": 7
+    },
+    {
       "symbol": "\\b",
       "unicode_number": 8
     },
