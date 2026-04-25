@@ -45,6 +45,10 @@
       "unicode_number": 10
     },
     {
+      "symbol": "\\v",
+      "unicode_number": 11
+    },
+    {
       "symbol": "\\f",
       "unicode_number": 12
     },
