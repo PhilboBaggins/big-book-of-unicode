@@ -10,7 +10,7 @@ repos:
     -   id: check-illegal-windows-names
     -   id: check-json
     -   id: check-merge-conflict
-    -   id: check-shebang-scripts-are-executable
+    #-   id: check-shebang-scripts-are-executable  # Disabled because it reports false positives for me on Windows
     -   id: check-symlinks
     -   id: destroyed-symlinks
     -   id: end-of-file-fixer
